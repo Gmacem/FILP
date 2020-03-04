@@ -6,7 +6,7 @@
 #include <time.h>
 
 int main() {
-    char* filename = "some_file";
+    char* filename = "text.txt";
     Reader reader;
     size_t size = reader.FileSize(filename);
     std::cout << "Size: " << size << '\n';
