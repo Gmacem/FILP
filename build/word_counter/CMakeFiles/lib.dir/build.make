@@ -105,45 +105,19 @@ word_counter/CMakeFiles/lib.dir/parser.cpp.o.provides: word_counter/CMakeFiles/l
 word_counter/CMakeFiles/lib.dir/parser.cpp.o.provides.build: word_counter/CMakeFiles/lib.dir/parser.cpp.o
 
 
-word_counter/CMakeFiles/lib.dir/stat.cpp.o: word_counter/CMakeFiles/lib.dir/flags.make
-word_counter/CMakeFiles/lib.dir/stat.cpp.o: ../word_counter/stat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sem/Projects/UrFU/4semester/FILP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object word_counter/CMakeFiles/lib.dir/stat.cpp.o"
-	cd /home/sem/Projects/UrFU/4semester/FILP/build/word_counter && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lib.dir/stat.cpp.o -c /home/sem/Projects/UrFU/4semester/FILP/word_counter/stat.cpp
-
-word_counter/CMakeFiles/lib.dir/stat.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lib.dir/stat.cpp.i"
-	cd /home/sem/Projects/UrFU/4semester/FILP/build/word_counter && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sem/Projects/UrFU/4semester/FILP/word_counter/stat.cpp > CMakeFiles/lib.dir/stat.cpp.i
-
-word_counter/CMakeFiles/lib.dir/stat.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lib.dir/stat.cpp.s"
-	cd /home/sem/Projects/UrFU/4semester/FILP/build/word_counter && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sem/Projects/UrFU/4semester/FILP/word_counter/stat.cpp -o CMakeFiles/lib.dir/stat.cpp.s
-
-word_counter/CMakeFiles/lib.dir/stat.cpp.o.requires:
-
-.PHONY : word_counter/CMakeFiles/lib.dir/stat.cpp.o.requires
-
-word_counter/CMakeFiles/lib.dir/stat.cpp.o.provides: word_counter/CMakeFiles/lib.dir/stat.cpp.o.requires
-	$(MAKE) -f word_counter/CMakeFiles/lib.dir/build.make word_counter/CMakeFiles/lib.dir/stat.cpp.o.provides.build
-.PHONY : word_counter/CMakeFiles/lib.dir/stat.cpp.o.provides
-
-word_counter/CMakeFiles/lib.dir/stat.cpp.o.provides.build: word_counter/CMakeFiles/lib.dir/stat.cpp.o
-
-
 # Object files for target lib
 lib_OBJECTS = \
 "CMakeFiles/lib.dir/reader.cpp.o" \
-"CMakeFiles/lib.dir/parser.cpp.o" \
-"CMakeFiles/lib.dir/stat.cpp.o"
+"CMakeFiles/lib.dir/parser.cpp.o"
 
 # External object files for target lib
 lib_EXTERNAL_OBJECTS =
 
 word_counter/liblib.a: word_counter/CMakeFiles/lib.dir/reader.cpp.o
 word_counter/liblib.a: word_counter/CMakeFiles/lib.dir/parser.cpp.o
-word_counter/liblib.a: word_counter/CMakeFiles/lib.dir/stat.cpp.o
 word_counter/liblib.a: word_counter/CMakeFiles/lib.dir/build.make
 word_counter/liblib.a: word_counter/CMakeFiles/lib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sem/Projects/UrFU/4semester/FILP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX static library liblib.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sem/Projects/UrFU/4semester/FILP/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library liblib.a"
 	cd /home/sem/Projects/UrFU/4semester/FILP/build/word_counter && $(CMAKE_COMMAND) -P CMakeFiles/lib.dir/cmake_clean_target.cmake
 	cd /home/sem/Projects/UrFU/4semester/FILP/build/word_counter && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lib.dir/link.txt --verbose=$(VERBOSE)
 
@@ -154,7 +128,6 @@ word_counter/CMakeFiles/lib.dir/build: word_counter/liblib.a
 
 word_counter/CMakeFiles/lib.dir/requires: word_counter/CMakeFiles/lib.dir/reader.cpp.o.requires
 word_counter/CMakeFiles/lib.dir/requires: word_counter/CMakeFiles/lib.dir/parser.cpp.o.requires
-word_counter/CMakeFiles/lib.dir/requires: word_counter/CMakeFiles/lib.dir/stat.cpp.o.requires
 
 .PHONY : word_counter/CMakeFiles/lib.dir/requires
 

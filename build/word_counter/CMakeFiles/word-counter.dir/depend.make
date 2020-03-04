@@ -4,5 +4,4 @@
 word_counter/CMakeFiles/word-counter.dir/main.cpp.o: ../word_counter/main.cpp
 word_counter/CMakeFiles/word-counter.dir/main.cpp.o: ../word_counter/parser.cpp
 word_counter/CMakeFiles/word-counter.dir/main.cpp.o: ../word_counter/reader.cpp
-word_counter/CMakeFiles/word-counter.dir/main.cpp.o: ../word_counter/stat.cpp
 

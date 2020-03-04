@@ -1,7 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/lib.dir/reader.cpp.o"
   "CMakeFiles/lib.dir/parser.cpp.o"
-  "CMakeFiles/lib.dir/stat.cpp.o"
   "liblib.pdb"
   "liblib.a"
 )

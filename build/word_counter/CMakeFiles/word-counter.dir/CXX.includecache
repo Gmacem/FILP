@@ -11,8 +11,6 @@ reader.cpp
 /home/sem/Projects/UrFU/4semester/FILP/word_counter/reader.cpp
 parser.cpp
 /home/sem/Projects/UrFU/4semester/FILP/word_counter/parser.cpp
-stat.cpp
-/home/sem/Projects/UrFU/4semester/FILP/word_counter/stat.cpp
 iostream
 -
 iomanip
@@ -35,6 +33,4 @@ fstream
 -
 iostream
 -
-
-/home/sem/Projects/UrFU/4semester/FILP/word_counter/stat.cpp
 

@@ -1,6 +1,5 @@
 #include "reader.cpp"
 #include "parser.cpp"
-#include "stat.cpp"
 #include <iostream>
 #include <iomanip>
 #include <time.h>

@@ -11,11 +11,6 @@
 },
 {
   "directory": "/home/sem/Projects/UrFU/4semester/FILP/build/word_counter",
-  "command": "/usr/bin/c++      -std=gnu++1z -o CMakeFiles/lib.dir/stat.cpp.o -c /home/sem/Projects/UrFU/4semester/FILP/word_counter/stat.cpp",
-  "file": "/home/sem/Projects/UrFU/4semester/FILP/word_counter/stat.cpp"
-},
-{
-  "directory": "/home/sem/Projects/UrFU/4semester/FILP/build/word_counter",
   "command": "/usr/bin/c++      -std=gnu++1z -o CMakeFiles/word-counter.dir/main.cpp.o -c /home/sem/Projects/UrFU/4semester/FILP/word_counter/main.cpp",
   "file": "/home/sem/Projects/UrFU/4semester/FILP/word_counter/main.cpp"
 }

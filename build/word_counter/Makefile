@@ -221,33 +221,6 @@ reader.cpp.s:
 	cd /home/sem/Projects/UrFU/4semester/FILP/build && $(MAKE) -f word_counter/CMakeFiles/lib.dir/build.make word_counter/CMakeFiles/lib.dir/reader.cpp.s
 .PHONY : reader.cpp.s
 
-stat.o: stat.cpp.o
-
-.PHONY : stat.o
-
-# target to build an object file
-stat.cpp.o:
-	cd /home/sem/Projects/UrFU/4semester/FILP/build && $(MAKE) -f word_counter/CMakeFiles/lib.dir/build.make word_counter/CMakeFiles/lib.dir/stat.cpp.o
-.PHONY : stat.cpp.o
-
-stat.i: stat.cpp.i
-
-.PHONY : stat.i
-
-# target to preprocess a source file
-stat.cpp.i:
-	cd /home/sem/Projects/UrFU/4semester/FILP/build && $(MAKE) -f word_counter/CMakeFiles/lib.dir/build.make word_counter/CMakeFiles/lib.dir/stat.cpp.i
-.PHONY : stat.cpp.i
-
-stat.s: stat.cpp.s
-
-.PHONY : stat.s
-
-# target to generate assembly for a file
-stat.cpp.s:
-	cd /home/sem/Projects/UrFU/4semester/FILP/build && $(MAKE) -f word_counter/CMakeFiles/lib.dir/build.make word_counter/CMakeFiles/lib.dir/stat.cpp.s
-.PHONY : stat.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -267,9 +240,6 @@ help:
 	@echo "... reader.o"
 	@echo "... reader.i"
 	@echo "... reader.s"
-	@echo "... stat.o"
-	@echo "... stat.i"
-	@echo "... stat.s"
 .PHONY : help
 
 

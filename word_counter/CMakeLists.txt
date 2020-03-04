@@ -1,7 +1,6 @@
 add_library(lib
     reader.cpp
-    parser.cpp
-    stat.cpp)
+    parser.cpp)
 
 add_executable(word-counter main.cpp)
 

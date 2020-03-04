@@ -5,5 +5,3 @@ word_counter/CMakeFiles/lib.dir/parser.cpp.o: ../word_counter/parser.cpp
 
 word_counter/CMakeFiles/lib.dir/reader.cpp.o: ../word_counter/reader.cpp
 
-word_counter/CMakeFiles/lib.dir/stat.cpp.o: ../word_counter/stat.cpp
-
