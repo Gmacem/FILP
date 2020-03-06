@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/sem/Projects/UrFU/4semester/FILP/asan/word_counter",
+  "command": "/usr/bin/c++     -fsanitize=address   -std=gnu++1z -o CMakeFiles/lib.dir/reader.cpp.o -c /home/sem/Projects/UrFU/4semester/FILP/word_counter/reader.cpp",
+  "file": "/home/sem/Projects/UrFU/4semester/FILP/word_counter/reader.cpp"
+},
+{
+  "directory": "/home/sem/Projects/UrFU/4semester/FILP/asan/word_counter",
+  "command": "/usr/bin/c++     -fsanitize=address   -std=gnu++1z -o CMakeFiles/lib.dir/parser.cpp.o -c /home/sem/Projects/UrFU/4semester/FILP/word_counter/parser.cpp",
+  "file": "/home/sem/Projects/UrFU/4semester/FILP/word_counter/parser.cpp"
+},
+{
+  "directory": "/home/sem/Projects/UrFU/4semester/FILP/asan/word_counter",
+  "command": "/usr/bin/c++     -fsanitize=address   -std=gnu++1z -o CMakeFiles/word-counter.dir/main.cpp.o -c /home/sem/Projects/UrFU/4semester/FILP/word_counter/main.cpp",
+  "file": "/home/sem/Projects/UrFU/4semester/FILP/word_counter/main.cpp"
+}
+]
