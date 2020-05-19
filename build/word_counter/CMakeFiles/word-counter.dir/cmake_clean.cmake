@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/word-counter.dir/main.cpp.o"
-  "../word-counter.pdb"
   "../word-counter"
+  "../word-counter.pdb"
+  "CMakeFiles/word-counter.dir/main.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

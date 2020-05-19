@@ -13,5 +13,10 @@
   "directory": "/home/sem/Projects/UrFU/4semester/FILP/build/word_counter",
   "command": "/usr/bin/c++      -std=gnu++1z -o CMakeFiles/word-counter.dir/main.cpp.o -c /home/sem/Projects/UrFU/4semester/FILP/word_counter/main.cpp",
   "file": "/home/sem/Projects/UrFU/4semester/FILP/word_counter/main.cpp"
+},
+{
+  "directory": "/home/sem/Projects/UrFU/4semester/FILP/build/smart_pointer",
+  "command": "/usr/bin/c++      -std=gnu++1z -o CMakeFiles/test_smart_ptr.dir/test.cpp.o -c /home/sem/Projects/UrFU/4semester/FILP/smart_pointer/test.cpp",
+  "file": "/home/sem/Projects/UrFU/4semester/FILP/smart_pointer/test.cpp"
 }
 ]

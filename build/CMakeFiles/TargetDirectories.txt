@@ -4,3 +4,6 @@
 /home/sem/Projects/UrFU/4semester/FILP/build/word_counter/CMakeFiles/edit_cache.dir
 /home/sem/Projects/UrFU/4semester/FILP/build/word_counter/CMakeFiles/lib.dir
 /home/sem/Projects/UrFU/4semester/FILP/build/word_counter/CMakeFiles/word-counter.dir
+/home/sem/Projects/UrFU/4semester/FILP/build/smart_pointer/CMakeFiles/rebuild_cache.dir
+/home/sem/Projects/UrFU/4semester/FILP/build/smart_pointer/CMakeFiles/test_smart_ptr.dir
+/home/sem/Projects/UrFU/4semester/FILP/build/smart_pointer/CMakeFiles/edit_cache.dir

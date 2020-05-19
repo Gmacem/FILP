@@ -40,6 +40,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/sem/Projects/UrFU/4semester/FILP/build/word_counter/cmake_install.cmake")
+  include("/home/sem/Projects/UrFU/4semester/FILP/build/smart_pointer/cmake_install.cmake")
 
 endif()
 

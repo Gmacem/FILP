@@ -8,4 +8,8 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}")
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}")
 set(CMAKE_EXPORT_COMPILE_COMMANDS  ON)
 
+find_package(Catch2 REQUIRED)
+#target_link_libraries(tests Catch2::Catch2)
+
 add_subdirectory(word_counter)
+add_subdirectory(smart_pointer)
